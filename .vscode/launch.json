@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Finding_Root_of_Quadratic_Equation",
+            "request": "launch",
+            "mainClass": "Finding_Root_of_Quadratic_Equation",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Largest_number",
+            "request": "launch",
+            "mainClass": "Largest_number",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
+            "name": "Series_Sum_even_number",
+            "request": "launch",
+            "mainClass": "Series_Sum_even_number",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
+            "name": "prime_using_for",
+            "request": "launch",
+            "mainClass": "prime_using_for",
+            "projectName": "Java_f3702306"
+        }
+    ]
+}
