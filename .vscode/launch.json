@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibonacci_Series",
+            "request": "launch",
+            "mainClass": "Fibonacci_Series",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
             "name": "Finding_Root_of_Quadratic_Equation",
             "request": "launch",
             "mainClass": "Finding_Root_of_Quadratic_Equation",
