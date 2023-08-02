@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Method_Overloading$Overloading",
+            "request": "launch",
+            "mainClass": "Method_Overloading$Overloading",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
             "name": "Fibonacci_Series",
             "request": "launch",
             "mainClass": "Fibonacci_Series",
