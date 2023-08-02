@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TRIANGLE",
+            "request": "launch",
+            "mainClass": "TRIANGLE",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
             "name": "CopyConstructor",
             "request": "launch",
             "mainClass": "CopyConstructor",
