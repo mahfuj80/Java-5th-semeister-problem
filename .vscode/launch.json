@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CopyConstructor",
+            "request": "launch",
+            "mainClass": "CopyConstructor",
+            "projectName": "Java_f3702306"
+        },
+        {
+            "type": "java",
             "name": "Method_Overloading$Overloading",
             "request": "launch",
             "mainClass": "Method_Overloading$Overloading",
