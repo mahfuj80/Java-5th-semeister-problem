@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "Java_fd8e4f"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "Java_fd8e4f"
+        },
+        {
+            "type": "java",
             "name": "TRIANGLE",
             "request": "launch",
             "mainClass": "TRIANGLE",
