@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mainMultithread",
+            "request": "launch",
+            "mainClass": "mainMultithread",
+            "projectName": "Java_fd8e4f"
+        },
+        {
+            "type": "java",
             "name": "inheritance",
             "request": "launch",
             "mainClass": "inheritance",
